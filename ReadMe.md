@@ -27,6 +27,12 @@
 
 * If you already have the images saved in the machine
   * `python main.py -id <Directory of the images> -rl True`
+  
+## Models
+
+Models are too big to add to the git, please download the models following this [Link](https://drive.google.com/file/d/1ZOaeV6jwUoDfKI3Zd2CO_jVXix1i8-gQ/view?usp=share_link)
+
+Unzip the above link to the repo before running the code
 
 # Results
  * If its given list of URLs or path to json file that contains URLs, it returns to 2 dictionaries:
